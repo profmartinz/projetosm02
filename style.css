@@ -1,0 +1,26 @@
+/* Cor de fundo cinza bem claro */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #004aad;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #003580;
+}
